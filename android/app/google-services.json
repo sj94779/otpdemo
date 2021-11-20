@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "414689118086",
+    "project_id": "otpdemo-ccfce",
+    "storage_bucket": "otpdemo-ccfce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414689118086:android:bb789824aeb05125afce07",
+        "android_client_info": {
+          "package_name": "com.shalini.otpdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414689118086-7af9fp8j9icmlntu35ehin5ng3htmhpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shalini.otpdemoapp",
+            "certificate_hash": "f0bc47be11a0627a35204a2a89440e94837a1687"
+          }
+        },
+        {
+          "client_id": "414689118086-3dghsoc09k2if0j7cdk8r87lt2fpftkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6AryEeLWqvah2CwDV0Nd6in9zENhPX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414689118086-3dghsoc09k2if0j7cdk8r87lt2fpftkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
